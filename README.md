@@ -56,3 +56,6 @@ AI-powered chatbots and assistants
 Creative writing tools (stories, poetry, and dialogues)
 Automated content generation for blogs and articles
 AI-driven text autocompletion
+
+
+![Image](https://github.com/user-attachments/assets/41b6184f-c028-4d2a-9a48-0937606ca249)
